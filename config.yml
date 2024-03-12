@@ -2,6 +2,10 @@ title: Thomas Reinert
 baseURL: "https://thomas-reinert.github.io/website/"
 theme: PaperModX
 
+
+#set default content language
+defaultContentLanguage: de
+
 enableRobotsTXT: true
 enableEmoji: true
 
