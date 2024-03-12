@@ -7,7 +7,7 @@ enableEmoji: true
 
 params:
   description: "der blinde Keynote Speaker"
-  author: Reorx
+  author: Thomas Reinert
   images:
     - cover.png
   favicon: favicon.ico
@@ -97,8 +97,8 @@ menu:
       weight: 4
 
 languages:
-  en:
-    languageName: "English"
+  de:
+    languageName: "Deutsch"
 
 markup:
   goldmark:
