@@ -1,12 +1,12 @@
-title: PaperModX Example Site
-baseURL: "https://reorx.github.io/papermodx-example/"
+title: Thomas Reinert
+baseURL: "https://thomas-reinert.github.io/website/"
 theme: PaperModX
 
 enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  description: "PaperModX Example Site description"
+  description: "der blinde Keynote Speaker"
   author: Reorx
   images:
     - cover.png
@@ -52,17 +52,12 @@ params:
       username: novoreorx
 
   homeInfoParams:
-    Title: "PaperModX"
+    Title: "Thomas Reinert"
     Content: |
-      Welcome to demo of hugo's theme PaperModX.
-
-      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
-
-      To get started, please head to the [Docs](docs).
-
-      To see examples of different contents, head to [examples tag](tags/example).
+      Thomas Reinert ist ein Meister darin, Dunkelheit in Licht zu verwandeln. Als visionärer Speaker und Inspirator mit einer außergewöhnlichen Lebensgeschichte verbindet er auf einzigartige Weise die Tiefen menschlicher Erfahrungen mit dem Streben nach persönlichem und professionellem Wachstum.
+      Seine Mission: mit so vielen Menschen wie möglich von Herz zu Herz zu sprechen, sie zu inspirieren und dann zu beobachten, was sich daraus entfaltet. 
+      Auf dieser Website teilt Thomas seine Erkenntnisse, Geschichten und die Essenz seines zwölf Schritte umfassenden Prozesses, der Hindernisse in Stufen zum Erfolg verwandelt. 
+      Entdecken Sie, wie Sie Resilienz aufbauen, Herausforderungen meistern und Ihr eigenes Licht heller leuchten lassen können.
 
   #commentSystems:
   #  disqus:
